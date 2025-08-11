@@ -2,6 +2,8 @@
 
 Interactive dashboard for analyzing and comparing Data Scientist salaries worldwide using Streamlit and Python visualization libraries.
 
+https://dashboard-salary-ds.streamlit.app/
+
 ## Installation
 
 ### Prerequisites
